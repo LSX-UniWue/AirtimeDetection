@@ -1,0 +1,3 @@
+tensorflow[and-cuda]==2.15.1
+wandb==0.16.1
+ruptures==1.1.9
